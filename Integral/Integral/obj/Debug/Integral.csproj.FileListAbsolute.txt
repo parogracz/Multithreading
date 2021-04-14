@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\Studia\Wielowatkowe\Integral\Integral\bin\Debug\Integral.exe.config
+C:\Users\Daniel\Desktop\Studia\Wielowatkowe\Integral\Integral\bin\Debug\Integral.exe
+C:\Users\Daniel\Desktop\Studia\Wielowatkowe\Integral\Integral\bin\Debug\Integral.pdb
+C:\Users\Daniel\Desktop\Studia\Wielowatkowe\Integral\Integral\obj\Debug\Integral.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Studia\Wielowatkowe\Integral\Integral\obj\Debug\Integral.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Studia\Wielowatkowe\Integral\Integral\obj\Debug\Integral.exe
+C:\Users\Daniel\Desktop\Studia\Wielowatkowe\Integral\Integral\obj\Debug\Integral.pdb

@@ -1,0 +1,15 @@
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\bin\Debug\net5.0\ZamekBRL.exe
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\bin\Debug\net5.0\ZamekBRL.deps.json
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\bin\Debug\net5.0\ZamekBRL.runtimeconfig.json
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\bin\Debug\net5.0\ZamekBRL.runtimeconfig.dev.json
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\bin\Debug\net5.0\ZamekBRL.dll
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\bin\Debug\net5.0\ref\ZamekBRL.dll
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\bin\Debug\net5.0\ZamekBRL.pdb
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\obj\Debug\net5.0\ZamekBRL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\obj\Debug\net5.0\ZamekBRL.AssemblyInfoInputs.cache
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\obj\Debug\net5.0\ZamekBRL.AssemblyInfo.cs
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\obj\Debug\net5.0\ZamekBRL.csproj.CoreCompileInputs.cache
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\obj\Debug\net5.0\ZamekBRL.dll
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\obj\Debug\net5.0\ref\ZamekBRL.dll
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\obj\Debug\net5.0\ZamekBRL.pdb
+D:\Studia\Wielowatkowe\ZamekBRL\ZamekBRL\obj\Debug\net5.0\ZamekBRL.genruntimeconfig.cache
